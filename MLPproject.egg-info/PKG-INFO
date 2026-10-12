@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: MLPproject
+Version: 0.0.1
+Author: AnjithSingh
+Author-email: anjithsingh1t@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
